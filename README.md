@@ -5,12 +5,12 @@
 ## 🚀 About Me
 
 - I'm currently pursuing a Diploma in Infocomm and Media Engineering in NYP!
-- (Probably?) Retired Rhythm Gamer
 - Not the biggest fan of Front-End or Design Work
+- (Probably?) Retired Rhythm Gamer
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cs,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,cs,dart,eclipse,vscode,visualstudio,flutter&perline=4)](https://skillicons.dev)
 
 
 ## 📬 Socials/Links
