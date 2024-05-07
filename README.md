@@ -2,6 +2,8 @@
 
 ![Metrics](/github-metrics.svg)
 
+![Recent Activity](/metrics.plugin.activity.svg)
+
 ## 🚀 About Me
 
 - I'm currently pursuing a Diploma in Infocomm and Media Engineering in NYP!
