@@ -1,6 +1,6 @@
 # Hi, I'm DarryllV! 👋
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=DarryllV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Metrics](/github-metrics.svg)
 
 ## 🚀 About Me
 
