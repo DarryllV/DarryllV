@@ -1,7 +1,30 @@
-### Hi there 👋
+# Hi, I'm DarryllV! 👋
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=DarryllV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- I'm currently pursuing a Diploma in Infocomm and Media Engineering in NYP!
+- (Probably?) Retired Rhythm Gamer
+- Not the biggest fan of Front-End or Design Work
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,cs,vscode,visualstudio)](https://skillicons.dev)
+
+
+## 📬 Socials/Links
+
+- [Twitter](https://twitter.com/LDa_rry)
+- [YouTube](https://www.youtube.com/c/DarryllV)
+- [Instagram](https://www.instagram.com/ldxrylv/)
+- [osu!](https://osu.ppy.sh/users/11759693)
+
+Thanks for stopping by!
+
+
 
 <!--
-**DarryllV/DarryllV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
